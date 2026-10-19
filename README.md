@@ -3,6 +3,7 @@
 > A local, privacy-first AI CLI tool that acts as an objective, non-emotional "bad cop" and Technical Project Manager for freelancers, catching contract scope creep and automatically drafting polite Change Order emails.
 
 Built for the **Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle**.
+📖 **Read the official submission post & breakdown on DEV.to:** https://dev.to/arceuzvx/i-built-a-local-ai-bad-cop-because-i-suck-at-saying-no-to-freelance-scope-creep-53jc
 
 ---
 
