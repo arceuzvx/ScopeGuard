@@ -1,0 +1,8 @@
+Project: Modern 3-Page Portfolio Website
+Agreed Scope:
+1. Home page with hero section, bio, and project showcase grid.
+2. About Me page detailing work history, publications, and skills.
+3. Static contact form routed via Formspree.
+4. Fully responsive layout, static hosting on GitHub Pages.
+Excluded: Custom database backends, user authentication, payment processing, dynamic CMS integrations.
+Total Fixed Fee: $1,200 USD.

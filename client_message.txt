@@ -1,0 +1,1 @@
+Hey, looking great so far! Quick thought before we launch: can we also add a member login portal so returning clients can download exclusive PDFs? Also, we'll need Stripe integration to charge $20 for access. Should be super quick to hook up right? Let's get that live by Friday!
